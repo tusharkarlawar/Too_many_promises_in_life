@@ -6,7 +6,7 @@ const posts = [];
             posts.push(post);
 
             resolve();
-          }, 1000);
+          }, 2000);
         });
       }
 
